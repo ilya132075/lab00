@@ -33,6 +33,7 @@ $ make --version
 #GNU Make 4.1
 #Built for i686-pc-cygwin...
 $ subl --version
+#Sublime Text Build 3176
 $ tree --version
 #tree v1.7.0 ...
 $ wget --version
