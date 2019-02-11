@@ -19,6 +19,7 @@
 ```sh
 # check development environment
 $ cmake --version
+cmake version 3.14.0-rc1...
 $ curl --version
 curl 7.41.0 (i686-pc-cygwin) libcurl/7.41.0 OpenSSL/1.0.2a zlib/1.2.8 libidn/1.29 libssh2/1.5.0...
 $ git --version
