@@ -27,6 +27,8 @@ $ git --version
 $ g++ --version
 #g++.exe (GCC) 8.2.0...
 $ hub --version
+#git version 2.1.4
+#hub version 2.8.4
 $ make --version
 #GNU Make 4.1
 #Built for i686-pc-cygwin...
