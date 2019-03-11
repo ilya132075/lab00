@@ -16,39 +16,38 @@
 ## Tutorial
 Проверка окружения для разработки(**cmake**, **curl**, **git** и т.д.)
 ```sh
-# check development environment
 #Проверка версии cmake:
 $ cmake --version
-#cmake version 3.14.0-rc1...
+cmake version 3.14.0-rc1...
 #Проверка версии curl:
 $ curl --version
-#curl 7.41.0 (i686-pc-cygwin) libcurl/7.41.0 OpenSSL/1.0.2a zlib/1.2.8 libidn/1.29 libssh2/1.5.0...
+curl 7.41.0 (i686-pc-cygwin) libcurl/7.41.0 OpenSSL/1.0.2a zlib/1.2.8 libidn/1.29 libssh2/1.5.0...
 #Проверка версии git:
 $ git --version
-#git version 2.1.4
+git version 2.1.4
 #Проверка версии g++:
 $ g++ --version
-#g++.exe (GCC) 8.2.0...
+g++.exe (GCC) 8.2.0...
 #Проверка версии hub:
 $ hub --version
-#git version 2.1.4
-#hub version 2.8.4
+git version 2.1.4
+hub version 2.8.4
 #Проверка версии make:
 $ make --version
-#GNU Make 4.1
-#Built for i686-pc-cygwin...
+GNU Make 4.1
+Built for i686-pc-cygwin...
 #Проверка версии subl:
 $ subl --version
-#Sublime Text Build 3176
+Sublime Text Build 3176
 #Проверка версии tree:
 $ tree --version
-#tree v1.7.0 ...
+tree v1.7.0 ...
 #Проверка версии wget:
 $ wget --version
-#GNU Wget 1.16.3 built on cygwin...
+GNU Wget 1.16.3 built on cygwin...
 #Проверка версии openssl:
 $ openssl version
-#OpenSSL 1.0.2a 19 Mar 2015
+OpenSSL 1.0.2a 19 Mar 2015
 ```
 
 ## Links
